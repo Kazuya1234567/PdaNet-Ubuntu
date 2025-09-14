@@ -8,3 +8,5 @@ How to connect PdaNet to ubuntu
 5. open setting
 6. go to "network" , "poxy"
 7. set to manual and setting HTTPS using ip from pdanet
+
+ALWAY CHANGE YOUR PROXY IF YOU WANT TO CONNECT AGAIN BECAUSE PDANET GENERATE NEW IP 
