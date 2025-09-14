@@ -6,7 +6,7 @@ How to connect PdaNet to ubuntu
 3. open pdanet and turn on "WIFI Direct Hotspot"
 4. now connect your ubuntu wifi to hotspot from pdanet
 5. open setting
-6. go to "network" , "poxy"
+6. go to "network" , "proxy"
 7. set to manual and setting HTTPS using ip from pdanet
 
-ALWAY CHANGE YOUR PROXY IF YOU WANT TO CONNECT AGAIN BECAUSE PDANET GENERATE NEW IP 
+ALWAYS CHANGE YOUR PROXY IF YOU WANT TO CONNECT AGAIN BECAUSE PDANET GENERATE NEW IP 
